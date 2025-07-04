@@ -2,3 +2,7 @@ h3{
     font-size: 30px;
     color: blueviolet;
 }
+p{
+    background-color: aqua;
+    padding: 10px;
+}
